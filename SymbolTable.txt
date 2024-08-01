@@ -1,9 +1,2 @@
-bubbleSort
-arr
-n
-i
-j
-temp
 main
-sizeof
 printf
