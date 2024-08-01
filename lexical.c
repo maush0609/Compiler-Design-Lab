@@ -294,36 +294,16 @@ void main() {
 Keywords
 ----------------------------
 void
-int
-for
-if
-return
 
 Identifiers
 ----------------------------
-bubbleSort
-arr
-n
-i
-j
-temp
 main
-sizeof
 printf
 
 constants
 ----------------------------
-5
-1
-4
-2
-8
-0
 
 Operators
 ----------------------------
-=
->
-+
-/
+
 */
